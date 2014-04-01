@@ -1,4 +1,4 @@
-i" Syntax file
+" Syntax file
 "
 " Maintainer: Pavlihin Ilya <vistilya@gmail.com>
 " Date: 2014/03/31
